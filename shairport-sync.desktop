@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=shairport-sync
+Icon=shairport-sync
+Exec=shairport-sync
+Type=Application
+Terminal=true
+Categories=AudioVideo;
+Comment=Receiver compatible to Apple AirPlay
